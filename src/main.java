@@ -7,8 +7,8 @@ lo siguiente:
 
 */
 
-
-
+//estos son comentarios en el main para hacer un commit nuevo desde la consola.
+//seconds changes
 
 public class main {
 
